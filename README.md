@@ -1,4 +1,6 @@
 # Smart-Farming-using-IOT
+# developed code in Embedded C and deployed it to run on an Arduino 
+
 1.	Sensor Integration:
 •	Integrate DHT20 sensors for temperature and humidity, moisture sensor, water sensor and luminance sensor with master(Esp32, XIAO) and slave(Esp32, XIAO) into cohesive IoT based framework.
 2.	Developed Own sensor Board:
